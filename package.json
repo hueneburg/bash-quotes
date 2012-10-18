@@ -1,0 +1,25 @@
+{
+  "name": "bash-quotes",
+  "version": "0.0.0",
+  "description": "get random >0 quotes from bash.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "bashquote": "app.js"
+  },
+  "repository": "",
+  "keywords": [
+    "bash",
+    "bash.org",
+    "irc",
+    "quotes"
+  ],
+  "author": "Joshua Holbrook",
+  "license": "MIT/X11",
+  "dependencies": {
+    "request": "~2.11.4",
+    "cheerio": "~0.10.1"
+  }
+}
