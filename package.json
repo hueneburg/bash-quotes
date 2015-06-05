@@ -20,6 +20,6 @@
   "license": "MIT/X11",
   "dependencies": {
     "request": "~2.11.4",
-    "cheerio": "~0.10.1"
+    "cheerio": "~0.19.0"
   }
 }
