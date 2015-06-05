@@ -10,7 +10,7 @@
 ## examples:
 
 ```
-josh@onix:~$ bashquote 
+josh@onix:~$ bashquote [bgi]
 <+ChiMP> WHATS GAYER THAN ME AND STARTS WITH AN N!!?!? 
 <@miz> nothing 
 <@miz> :o
@@ -18,6 +18,10 @@ josh@onix:~$
 ```
 
 ```js
+b: include bash.org
+g: include german-bash.org
+i: include ibash.de
+
 #!/usr/bin/env node
 
 var quote = require('./index');
